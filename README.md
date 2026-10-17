@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=750&height=100&lines=AWS+DevOps+Engineer+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Automation+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Projects+%F0%9F%92%BB;Automating+the+Cloud+%E2%9A%A1" alt="Animated typing introduction" />
 </p>
 
-
+<p align="center"> 
 
 <p align="center">
   <a href="https://github.com/Hariharan14-Dev">
@@ -158,6 +158,7 @@
   <a href="https://www.linkedin.com/in/hariharan-alagurajan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <p align="center">📧 <strong>Email:</strong> <a href="mailto:hariharan14.dev@gmail.com">hariharan14.dev@gmail.com</a></p>
 </p>
 
 <p align="center">
