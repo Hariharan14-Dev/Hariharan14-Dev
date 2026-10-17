@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Hariharan A</h1>
+<h1 align="center">👋 Hi, I'm Hariharan</h1>
 
 <h3 align="center">☁️ AWS DevOps Engineer | Cloud & Automation 🚀</h3>
 
@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=750&height=100&lines=AWS+DevOps+Engineer+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Automation+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Projects+%F0%9F%92%BB;Automating+the+Cloud+%E2%9A%A1" alt="Animated typing introduction" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hariharan14-Dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Hariharan14-Dev">
